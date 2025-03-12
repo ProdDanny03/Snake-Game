@@ -39,9 +39,9 @@ To download the repository, follow these steps:
 
 If you want to build the executable yourself, follow these steps:
 
-1. Install PyInstaller:
+1. Activate Virtual Environment:
    ```sh
-   pip install pyinstaller
+   .\.venv\Scripts\Activate.ps1
    ```
 
 2. Run PyInstaller with the spec file:
